@@ -1,4 +1,4 @@
 # hello-world
-just another represetory
+was deleted
 make some changes add line of numbers
 1234567890
